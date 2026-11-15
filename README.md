@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" width="120" alt="MingChart Logo">
+  <img src="htttps://chart.152427.xyz/icon.ico" width="120" alt="MingChart Logo">
   <h1>📊 MingChart - 数据图表生成器</h1>
   <p><strong>让数据可视化，优雅且简单。</strong></p>
   
