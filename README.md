@@ -1,17 +1,17 @@
 <div align="center">
-  <svg width="120" height="120" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
-    <rect x="8" y="8" width="240" height="240" rx="52" fill="#4a90e2"/>
-    <rect x="44" y="52" width="168" height="152" rx="16" fill="#ffffff" opacity="0.96"/>
-    <rect x="66" y="148" width="26" height="40" rx="5" fill="#4a90e2"/>
-    <rect x="106" y="112" width="26" height="76" rx="5" fill="#50c5b7"/>
-    <rect x="146" y="132" width="26" height="56" rx="5" fill="#f5a623"/>
-    <polyline points="79,142 119,104 159,124 176,96" fill="none" stroke="#e94b6c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="79" cy="142" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
-    <circle cx="119" cy="104" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
-    <circle cx="159" cy="124" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
-    <circle cx="176" cy="96" r="7" fill="#e94b6c" stroke="#ffffff" stroke-width="3"/>
-    <line x1="60" y1="188" x2="196" y2="188" stroke="#c9d1dc" stroke-width="3" stroke-linecap="round"/>
-  </svg>
+  <svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#4a90e2"/>
+  <rect x="44" y="52" width="168" height="152" rx="16" fill="#ffffff"/>
+  <rect x="66" y="148" width="26" height="40" rx="5" fill="#4a90e2"/>
+  <rect x="106" y="112" width="26" height="76" rx="5" fill="#50c5b7"/>
+  <rect x="146" y="132" width="26" height="56" rx="5" fill="#f5a623"/>
+  <polyline points="79,142 119,104 159,124 176,96" fill="none" stroke="#e94b6c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="79" cy="142" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
+  <circle cx="119" cy="104" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
+  <circle cx="159" cy="124" r="6" fill="#ffffff" stroke="#e94b6c" stroke-width="4"/>
+  <circle cx="176" cy="96" r="7" fill="#e94b6c" stroke="#ffffff" stroke-width="3"/>
+  <line x1="60" y1="188" x2="196" y2="188" stroke="#c9d1dc" stroke-width="3" stroke-linecap="round"/>
+</svg>
   <h1>📊 MingChart - 数据图表生成器</h1>
   <p><strong>让数据可视化，优雅且简单。</strong></p>
   
