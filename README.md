@@ -37,7 +37,6 @@
 
 🌐 **官方网站**：[https://chart.152427.xyz](https://chart.152427.xyz)  
 🖥️ **网页体验端**：[https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)  
-📱 **手机专享版（支持直接保存图片）**：[https://chart.152427.xyz/app.html](https://chart.152427.xyz/app.html)
 
 ### 🚀 核心特性
 
@@ -100,7 +99,6 @@ It offers both a fully offline desktop client and a responsive web experience. E
 
 🌐 **Official Website**: [https://chart.152427.xyz](https://chart.152427.xyz)  
 🖥️ **Web Experience**: [https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)  
-📱 **Mobile Version (Save Image)**: [https://chart.152427.xyz/app.html](https://chart.152427.xyz/app.html)
 
 ### 🚀 Core Features
 
