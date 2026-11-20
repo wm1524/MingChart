@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- 这里可以放一张你的 logo，比如：<img src="icon.svg" width="120" alt="MingChart Logo"> -->
+  <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/3f4daf45-f473-46c0-a266-f91488336661" />
   <h1>📊 MingChart - 数据图表生成器</h1>
   <p><strong>让数据可视化，优雅且简单。</strong></p>
   
