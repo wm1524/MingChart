@@ -8,9 +8,13 @@
     <a href="#-english-documentation">English</a>
   </p>
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![Python Version](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
-  [![Web Version](https://img.shields.io/badge/Web-Online-brightgreen.svg)](https://chart.152427.xyz)
+  <p>
+    <a href="https://github.com/wm1524/MingChart"><img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub"></a>
+    <a href="https://gitee.com/wm1524/MingChart"><img src="https://img.shields.io/badge/Gitee-Repository-C71D23?logo=gitee" alt="Gitee"></a>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/python-3.8+-green.svg" alt="Python">
+    <a href="https://chart.152427.xyz"><img src="https://img.shields.io/badge/Web-Online-brightgreen.svg" alt="Web"></a>
+  </p>
 </div>
 
 ---
@@ -24,7 +28,8 @@
 它不仅拥有纯本地运行的桌面客户端，还拥有全设备适配的网页体验端。摒弃了繁琐的配置和庞大的商业软件，MingChart 提供了一种所见即所得的操作体验：无需编写代码，只需输入数据或直接用鼠标/手指拖拽图形，即可一键生成专业级别的饼图、柱状图和折线图。
 
 🌐 **官方网站**：[https://chart.152427.xyz](https://chart.152427.xyz)  
-🖥️ **网页体验端**：[https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)
+🖥️ **网页体验端**：[https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)  
+📦 **开源镜像**：[GitHub](https://github.com/wm1524/MingChart) | [Gitee](https://gitee.com/wm1524/MingChart)
 
 ### 🚀 核心特性
 
@@ -38,9 +43,10 @@
 
 ### 📥 下载与安装
 
-请前往我们的官方网站或 GitHub Releases 下载最新版本：
+请前往我们的官方网站或开源仓库 Releases 下载最新版本：
 👉 **[MingChart 官网](https://chart.152427.xyz)**
 👉 **[GitHub Releases](https://github.com/wm1524/MingChart/releases)**
+👉 **[Gitee 发行版](https://gitee.com/wm1524/MingChart/releases)**
 
 系统要求：Windows 10 / 11 (64-bit)
 
@@ -88,7 +94,8 @@
 It offers both a fully offline desktop client and a responsive web experience. Eliminating the need for complex configurations or bulky commercial software, MingChart provides a WYSIWYG experience: no coding required—just input your data or drag the shapes directly with your mouse/finger to generate professional pie charts, bar charts, and line charts.
 
 🌐 **Official Website**: [https://chart.152427.xyz](https://chart.152427.xyz)  
-🖥️ **Web Experience**: [https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)
+🖥️ **Web Experience**: [https://chart.152427.xyz/mobile.html](https://chart.152427.xyz/mobile.html)  
+📦 **Mirrors**: [GitHub](https://github.com/wm1524/MingChart) | [Gitee](https://gitee.com/wm1524/MingChart)
 
 ### 🚀 Core Features
 
@@ -102,9 +109,10 @@ It offers both a fully offline desktop client and a responsive web experience. E
 
 ### 📥 Download & Installation
 
-Please visit our official website or GitHub Releases to download the latest version:
+Please visit our official website or repository Releases to download the latest version:
 👉 **[MingChart Official Website](https://chart.152427.xyz)**
 👉 **[GitHub Releases](https://github.com/wm1524/MingChart/releases)**
+👉 **[Gitee Releases](https://gitee.com/wm1524/MingChart/releases)**
 
 System Requirements: Windows 10 / 11 (64-bit)
 
@@ -134,7 +142,7 @@ Compile installer (Requires Inno Setup):
 
 - **Developer**: WanMing
 - **QQ**: 3807559825
-- **Email**: ttsd1524@qq.com
+- **邮箱/Email**: ttsd1524@qq.com
 *(Note: Responses may be delayed due to a busy schedule. Thank you for your understanding!)*
 
 ### 📄 License
