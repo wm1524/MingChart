@@ -11,9 +11,9 @@
   <p>
     <a href="https://github.com/wm1524/MingChart"><img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub"></a>
     <a href="https://gitee.com/wm1524/MingChart"><img src="https://img.shields.io/badge/Gitee-Repository-C71D23?logo=gitee" alt="Gitee"></a>
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-    <img src="https://img.shields.io/badge/python-3.8+-green.svg" alt="Python">
     <a href="https://chart.152427.xyz"><img src="https://img.shields.io/badge/Web-Online-brightgreen.svg" alt="Web"></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.8+-green.svg" alt="Python"></a>
   </p>
 </div>
 
